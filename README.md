@@ -3,3 +3,5 @@
 C++ program on the topic of double linked lists
 
 Another implementation of double linked lists
+
+Did not complete multiplication
